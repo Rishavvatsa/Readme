@@ -4,7 +4,7 @@
 - 🔭 I’m currently exploring **Machine Learning ,Web Development and UI/UX Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
-<p align="left"><img src="https://user-images.githubusercontent.com/95865069/201467638-82afbe33-8528-491e-981f-69b42d8fbf13.png"
+<img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Rishavvatsa)
