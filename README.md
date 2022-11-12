@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/95865069/201469542-4bad6d3a-3cd1-4260-8deb-23bdfd00605a.png)
 
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 <h3 align="center">I'm a CSE undergraduate.</h3>
