@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Rishavvatsa)
+-  📄 Know about my experiences [https://drive.google.com/drive/folders/1Xm2ZSSAST7P94TRpy-BtCwhUd6MwxyV3](https://drive.google.com/drive/folders/1Xm2ZSSAST7P94TRpy-BtCwhUd6MwxyV3)
 
 - 📫 How to reach me **rishavvatsa62033@gmail.com**
 
