@@ -10,7 +10,7 @@
 
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Rishavvatsa)
--  📄 Know about my experiences [https://drive.google.com/drive/folders/1Xm2ZSSAST7P94TRpy-BtCwhUd6MwxyV3])
+-  📄 Know about my experiences [https://drive.google.com/file/d/1QTklc72AyYP4wr02o1rF6vaKXhpCfP_x/view?usp=sharing])
 
 - 📫 How to reach me **rishavvatsa62033@gmail.com**
 
